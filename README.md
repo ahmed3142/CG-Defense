@@ -2,9 +2,6 @@
 
 A feature-rich **tower defense game** built in C++ using the [Raylib 5.0](https://www.raylib.com/) graphics library. Place towers, manage your economy, and survive 10 waves of increasingly difficult enemies to defend your castle.
 
-<p align="center">
-  <img src="preview.jpg" alt="CG Defense gameplay screenshot" width="860">
-</p>
 
 ---
 

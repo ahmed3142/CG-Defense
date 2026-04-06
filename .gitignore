@@ -1,3 +1,24 @@
+# ── Build outputs ─────────────────────────────────────────────────────────────
 *.exe
 *.dsym
+*.o
+*.a
+*.dll
 main
+obj/
+
+# ── Third-party source tree (single-header already present as src/json.hpp) ──
+src/json-develop/
+
+# ── Runtime-generated files ───────────────────────────────────────────────────
+highscores.txt
+
+# ── Editor / IDE artifacts ────────────────────────────────────────────────────
+.vscode/
+*.code-workspace
+*.user
+.vs/
+
+# ── OS artifacts ─────────────────────────────────────────────────────────────
+Thumbs.db
+.DS_Store
